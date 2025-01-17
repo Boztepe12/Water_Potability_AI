@@ -1,0 +1,10 @@
+{
+    "accuracy": 0.72,
+    "precision": 0.65,
+    "f1_score": 0.60,
+    "mean_squared_error": 0.21,
+    "true_positives": 124,
+    "false_negatives": 120,
+    "true_negatives": 340,
+    "false_positives": 72
+}
